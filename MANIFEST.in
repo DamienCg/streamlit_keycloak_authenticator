@@ -1,0 +1,2 @@
+include streamlit_keycloak_authenticator/credential_example.json
+include README.md
