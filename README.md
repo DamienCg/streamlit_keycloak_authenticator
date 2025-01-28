@@ -6,5 +6,4 @@ A lightweight library for integrating Keycloak authentication into Streamlit app
 
 Install the library using pip:
 
-```bash
-pip install streamlit_keycloak_authenticator
+update credential.json and Edit reserved_page.py to use
